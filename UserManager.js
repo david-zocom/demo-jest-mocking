@@ -1,4 +1,4 @@
-const UserManager = class UserManager {
+class UserManager {
 	needsTesting() {
 		this.deleteUser();
 	}
